@@ -1,13 +1,13 @@
 ### Olá, Eu sou o Tales  👋
  <div>
   <a href="https://github.com/talessantos49">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=talessantos49&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talessantos49&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=talessantos49&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talessantos49&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  - 🤖 Estou atualmente trabalhando com automação industrial e sistemas integrados.
+  - 🤖 .
 
-  - 🌱 Estou atualmente aprendendo python e ferramentas para programação.
+  - 🌱 Estudante de python e ferramentas para programação.
 
   - 📫 Contacte-me : talessantos49@gmail.com
   
