@@ -5,11 +5,11 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talessantos49&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  - 🤖 Mecatronic engineer Na Kerotanz Holders.
+  - 🤖 Mecatronic engineer at Kerotanz Holders.
 
   - 🌱 Estudante de python e ferramentas para programação.
 
-  - 📫 Contacte-me : talessantos49@gmail.com
+  - 📫 Email: talessantos49@gmail.com
   
   ##
   <div>
