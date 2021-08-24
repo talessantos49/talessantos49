@@ -4,13 +4,15 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=talessantos49&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talessantos49&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-  - 🤖 Mecatronic engineer at Kerotanz Holders.
-
-  - 🌱 Estudante de python e ferramentas para programação.
-
-  - 📫 Email: talessantos49@gmail.com
-  
+ 
+ ##
+ 
+ - 📫 Email: talessantos49@gmail.com
+ 
+ - 🤖 Mecatronic engineer at Kerotanz Holders.
+ 
+ - 🌱 Estudante de python e ferramentas para programação.
+ 
   ##
   <div>
   <a href="https://www.linkedin.com/in/talesasantos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
