@@ -11,7 +11,7 @@
  
  - 🤖 Mecatronic engineer at Kerotanz Holders.
  
- - 🌱 Estudante de python e ferramentas para programação.
+ - 🌱 Cadet at 42 École SP.
  
   ##
   <div>
