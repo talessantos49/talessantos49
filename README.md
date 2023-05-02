@@ -25,8 +25,8 @@
  <p align="left">
   <a href="https://skillicons.dev">
     <img alt="Tales-Embarcados" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-plain.svg">
-    <img src="https://skillicons.dev/icons?i=git,github,md,bash,linux,c" />
-    <img src="https://skillicons.dev/icons?i=css,html,js,mysql,py,django,arduino,raspberrypi,sqlite,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,md,bash,linux,c,vscode,sqlite" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,mysql,py,django,arduino,raspberrypi" />
 <!--     <img src="https://skillicons.dev/icons?i=git,github,md,bash,linux,c,css,html,js,mysql,py,django,arduino,raspberrypi,sqlite,vscode" /> -->
   </a>
 </p>
