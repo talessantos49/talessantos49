@@ -6,7 +6,7 @@
 <div align="center">
    <img alt="Tales-Embarcados" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-plain.svg">
    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-   <p></p>
+   <p align="justify">I'm a professional(and enthusiastic) of IoT projects, I already did a energy monitor(this was the name of my end course project) a device who read , measure and convert how many energy do you spend with your electronic equipments, how many time it was on and can add a sleep function. The biggest argument what we use to this project is: if you slept until midnight and woke up at six o'clock, how many time did you don't use your equipments, and how much do you spend in this time? Considering the router like a example. And after all that we show in a excel table how much the user can safe money with this.</p>
 </div>
 
 ## 🎓 Software Engineering Student and Cadet at 42 École SP.
@@ -42,10 +42,12 @@ if (Any_question){
 
  <div>
   <a href="https://github.com/talessantos49">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=talessantos49&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talessantos49&layout=compact&langs_count=7&theme=dark"/>
+<!--   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=talessantos49&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talessantos49&theme=dark&size_weight=0.3&count_weight=0.3&langs_count=6)
+
 </div>
-   
+
 ## 📧 How to reach Me:
 Email: talessantos49@gmail.com
 
