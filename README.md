@@ -1,11 +1,12 @@
 ### Hi, I am Tales  👋
  ##
- 
+
 ## 🤖 Mecatronic engineer at Kerotanz Holders.
 
 <div align="center">
-   <img alt="Tales-Embarcados" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-plain.svg">
-   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+   <img alt="Tales-Embarcados" onmouseover="Embarcados" height="50" width="50" title="Embedded C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-plain.svg" >
+   <img src="https://skillicons.dev/icons?i=arduino" title="Arduino"/>
+   <img src="https://skillicons.dev/icons?i=raspberrypi" title="Raspberry Pi" />
    <p align="justify">I'm a professional(and enthusiastic) of IoT projects, I already did a energy monitor(this was the name of my end course project) a device who read , measure and convert how many energy do you spend with your electronic equipments, how many time it was on and can add a sleep function. The biggest argument what we use to this project is: if you slept until midnight and woke up at six o'clock, how many time did you don't use your equipments, and how much do you spend in this time? Considering the router like a example. And after all that we show in a excel table how much the user can safe money with this.</p>
 </div>
 
